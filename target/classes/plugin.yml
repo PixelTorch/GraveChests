@@ -1,0 +1,6 @@
+name: TestPlugin
+version: 1.0-SNAPSHOT
+main: com.pixeltorch.testplugin.TestPlugin
+api-version: 1.13
+authors: [PixelTorch]
+description: First Plugin
